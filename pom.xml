@@ -14,7 +14,7 @@
 	<name>EmployeeAPI</name>
 	<description>CRUD API for HR managment to perform operations on employee data</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
